@@ -1,0 +1,2 @@
+Κάνουμε import στο Eclipse JEE αυτό το Dynamic Web Project θέτοντας ως Target Server τον Apache Tomcat.
+Επίσης δημιουργούμε μια βάση δεδομένων τύπου MySQL και χρησιμοποιώντας τον xampp Driver τη συνδέουμε με τη Java.
